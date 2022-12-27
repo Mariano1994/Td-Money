@@ -33,7 +33,7 @@ export function Transactions() {
                 <PriceHighLight variant="outcome">- R$ 59,00</PriceHighLight>
               </td>
 
-              <td>Alimentacao</td>
+              <td>Alimentação</td>
               <td>10/04/2022</td>
             </tr>
           </tbody>
