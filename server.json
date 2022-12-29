@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "28 2022 11:39:22 GMT+0100"
+      "createdAt": "Dec 29 2022 11:21:06 GMT+0100"
     },
     {
       "id": 2,
@@ -14,7 +14,23 @@
       "type": "outcome",
       "category": "Alimentacao",
       "price": 50,
-      "createdAt": "30 2022 11:39:22 GMT+0100"
+      "createdAt": "Dec 30 2022 11:21:06 GMT+0100"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de software de Gestao",
+      "type": "income",
+      "category": "Venda",
+      "price": 13500,
+      "createdAt": "Jan 01 2022 11:21:06 GMT+0100"
+    },
+    {
+      "id": 3,
+      "description": "Netflix",
+      "type": "outcome",
+      "category": "Entretenimeento",
+      "price": 13500,
+      "createdAt": "Jan 12 2022 11:21:06 GMT+0100"
     }
   ]
 }
