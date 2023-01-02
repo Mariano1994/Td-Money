@@ -29,11 +29,17 @@ export const SearchFormContainer = styled.form`
     color: ${(props) => props.theme["green-300"]};
 
     font-weight: bold;
+    cursor: pointer;
     border-radius: 6px;
 
     transition: all 0.2s;
 
-    &:hover {
+    &:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    &:not(:disabled):hover {
       background-color: ${(props) => props.theme["green-300"]};
       border-color: ${(props) => props.theme["green-300"]};
       color: ${(props) => props.theme.white};
