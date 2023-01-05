@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "Dec 29 2022 11:21:06 GMT+0100"
+      "createdAt": "2023-01-04T23:47:25.622Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentacao",
       "price": 50,
-      "createdAt": "Dec 30 2022 11:21:06 GMT+0100"
+      "createdAt": "2023-01-04T23:47:25.622Z"
     },
     {
       "id": 3,
@@ -22,15 +22,15 @@
       "type": "income",
       "category": "Venda",
       "price": 13500,
-      "createdAt": "Jan 01 2022 11:21:06 GMT+0100"
+      "createdAt": "2023-01-04T23:47:25.622Z"
     },
     {
-      "id": 3,
+      "id": 4,
       "description": "Netflix",
       "type": "outcome",
       "category": "Entretenimeento",
       "price": 13500,
-      "createdAt": "Jan 12 2022 11:21:06 GMT+0100"
+      "createdAt": "2023-01-04T23:47:25.622Z"
     }
   ]
 }
