@@ -23,6 +23,30 @@
       "type": "outcome",
       "createdAt": "2023-01-05T22:04:35.175Z",
       "id": 3
+    },
+    {
+      "description": "Desenvolvimento do site JorgeViagens ",
+      "price": 350000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-06T10:30:44.442Z",
+      "id": 4
+    },
+    {
+      "description": "Prestacao de Servicos para Pcsnet",
+      "price": 2000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-06T10:31:08.840Z",
+      "id": 5
+    },
+    {
+      "description": "Jantar com a familia ",
+      "price": 10000,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-01-06T10:31:47.801Z",
+      "id": 6
     }
   ]
 }
